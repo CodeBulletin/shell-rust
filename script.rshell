@@ -1,0 +1,9 @@
+echo Hello World
+ls
+cd src
+ls
+cd ..
+type echo
+type ls
+exit
+echo will not print
